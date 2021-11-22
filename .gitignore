@@ -1,0 +1,3 @@
+venv
+build_models/resnet-weights.hdf5
+build_models/weights_seg.hdf5
